@@ -1,6 +1,9 @@
 [package]
 name = "round-to"
 version = "0.1.0"
+authors = ["Christian Louis Abrigo (yexiuph)"]
+repository = "https://github.com/yexiuph/round-to"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
