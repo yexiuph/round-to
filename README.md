@@ -1,4 +1,4 @@
-# round-to
+# round2rs
 
 > Round a number to a specific number of decimal places: `1.234` → `1.2` supports negative numbers as well
 

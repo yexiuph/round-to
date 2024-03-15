@@ -1,6 +1,6 @@
 [package]
 name = "round2rs"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Christian Louis Abrigo (yexiuph)"]
 homepage = "https://github.com/yexiuph/round-to"
 documentation = "https://github.com/yexiuph/round-to"
