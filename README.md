@@ -1,8 +1,6 @@
 # round-to
 
-> Based on round-to NPM Crate
-> Round a number to a specific number of decimal places: `1.234` → `1.2`
-> Supports negative numbers as well
+> Round a number to a specific number of decimal places: `1.234` → `1.2` supports negative numbers as well
 
 ## Install
 
