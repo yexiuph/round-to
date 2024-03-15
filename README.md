@@ -11,7 +11,7 @@ cargo add round-to
 ## Usage
 
 ```js
-use round-to::RoundTo;
+use round_to::RoundTo;
 
 RoundTo::round_to(1.234, 2);
 //=> 1.23
